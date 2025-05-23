@@ -1,4 +1,4 @@
-<h1 align="center">Daniel Stoyanov</h1>
+<h1 align="center">Dan Stoyanov</h1>
 <p align="center"><em>PhD Candidate in Artificial Intelligence · Software Engineer</em></p>
 
 <p align="center">
