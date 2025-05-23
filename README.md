@@ -1,69 +1,57 @@
-<h1 align="center">Hi 👋, I'm Daniel Stoyanov</h1>
-<h3 align="center">PhD Candidate in Artificial Intelligence | Software Engineer</h3>
-<p align="center">Focusing on Hybrid AI Systems, Image Recognition, working with LLMs, and developing robust software solutions.</p>
+<h1 align="center">Dan Stoyanov</h1>
+<p align="center"><em>PhD Candidate in Artificial Intelligence · Software Engineer</em></p>
 
----
-
-<p align="left">
-  🔭 I'm currently a PhD candidate in <strong>Artificial Intelligence</strong> at Burgas State University "Prof. Dr. Asen Zlatarov", specializing in <strong>Hybrid AI Systems and Image Recognition</strong>.
-  <br/>
-  💻 My expertise lies in <strong>software development</strong>, particularly with <strong>C#, ASP.NET, Python, and JavaScript</strong>, including web scraping and data extraction techniques.
-  <br/>
-  🌱 I am constantly eager to learn and explore new technologies, staying ahead of industry advancements through innovation and continuous learning.
-  <br/>
-  📫 How to reach me: <strong>stoyanov.dann@gmail.com</strong>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Hybrid_AI_|_Image_Recognition-blueviolet?style=for-the-badge&logo=ai" alt="Focus" />
+  <img src="https://img.shields.io/badge/Location-Burgas,_Bulgaria-informational?style=for-the-badge&logo=map" alt="Location" />
 </p>
 
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/danstoyanov" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danstoyanov" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://x.com/dannstoyanov" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter) - dannstoyanov" height="30" width="40" />
-</a>
+    <img src="https://img.shields.io/badge/X_(Twitter)-@dannstoyanov-black?style=flat&logo=twitter" alt="X">
+  </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+## 👨‍💻 About Me
 
-<h4>🤖 AI & Machine Learning:</h4>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-</p>
+I’m a **PhD Candidate in AI** at Burgas State University, researching **hybrid systems and image recognition**.  
+With a strong background in **software engineering**, I specialize in developing intelligent solutions using **Python**, **C#/.NET**, **MATLAB**, and **modern machine learning tools**.
 
-<h4>⚙️ Backend Development:</h4>
-<p align="left">
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".net" width="40" height="40"/> </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/core/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".net core" width="40" height="40"/> </a>
-  <a href="https://learn.microsoft.com/en-us/aspnet/core/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/> </a>
-</p>
-
-<h4>🌐 Frontend Development:</h4>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-</p>
-
-<h4>🛢️ Databases:</h4>
-<p align="left">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="mssql" width="40" height="40"/> </a>
-</p>
-
-<h4>🛠️ Other Tools:</h4>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <!-- Тук можеш да добавиш други инструменти, които не се вписват точно в горните категории -->
-</p>
+I'm passionate about building robust applications, learning continuously, and staying ahead in AI research.
 
 ---
+
+## 🛠️ Tech Stack
+
+### ⚙️ Languages & Tools
+
+| AI/ML | Backend | Frontend | Databases | Other |
+|-------|---------|----------|-----------|-------|
+| ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat&logo=mathworks) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
+
+---
+
+## 🔍 Interests
+
+- 🧠 **Large Language Models (LLMs)**
+- 🎛️ **Hybrid AI Systems**
+- 🖼️ **Image Recognition**
+- ⚙️ **Automated Software Solutions**
+- 📈 **AI for Productivity & Entrepreneurship**
+
+---
+
+## 🤝 Let's Connect
+
+Feel free to reach out or follow me on:
+- 💼 [LinkedIn](https://www.linkedin.com/in/danstoyanov)
+- 🐦 [X / Twitter](https://x.com/dannstoyanov)
+
+---
+
+> “Technology is best when it brings people together.” — Matt Mullenweg  
